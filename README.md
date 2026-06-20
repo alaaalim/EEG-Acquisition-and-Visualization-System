@@ -18,7 +18,7 @@ This makes the system useful for both **real-time monitoring** of EEG signals an
 ## Project Objectives
 - Acquire EEG signals using Arduino-based hardware.
 - Visualize EEG waveforms in real-time using MATLAB.
-- Implement a collaborative GUI for signal monitoring ([View GUI here](https://github.com/ahmedayman220/EEG-State-Classification/tree/main/GitHub_GUI)).
+- Implement a collaborative GUI for signal monitoring ([View GUI here](https://github.com/ahmedayman220/EEG-State-Classification)).
 - Simulate and validate hardware design using Proteus.
 
 ## Tools & Technologies
